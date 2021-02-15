@@ -9,14 +9,9 @@
 
 let subscriptions = [
     {
-        link: "订阅地址1",
-        name: "取个名字1",
-        icon: "https://raw.githubusercontent.com/Orz-3/mini/master/pudding.png"
-    },
-    {
-        link: "订阅地址2",
-        name: "取个名字2",
-        icon: "https://raw.githubusercontent.com/Orz-3/mini/master/Nexitally.png"
+        link: "https://d.cloudso.club/link/7k5eiJjIhIPrVxSm?list=quantumultx",
+        name: "SoCloud",
+        icon: "https://raw.githubusercontent.com/Orz-3/mini/master/36D.png"
     },
 ];
 
